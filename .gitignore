@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Django
+*.log
+db.sqlite3
+db.sqlite3-journal
+/staticfiles/
+/media/
+*.pyc
+
+# React / Node
+node_modules/
+/build/
+/.pnp
+.pnp.js
+.env
+.env.local
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Uploaded files
+media/
+documents_uploaded/
+
+# Backend specific
+backend/venv/
+backend/__pycache__/
+
+# Frontend specific
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Secret keys / sensitive data
+*.key
+*.pem
+secrets.json
+config.py

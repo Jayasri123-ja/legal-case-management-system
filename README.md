@@ -30,7 +30,7 @@ A web application for lawyers to manage cases, clients, legal documents with AI 
 ![Admin](adminBackend.png)
 
 ### Dashboard Backend
-!dashboard](dashboardbackend.png)
+![Dashboard](dashboardbackend.png)
 
 
 

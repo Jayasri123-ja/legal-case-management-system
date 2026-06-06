@@ -100,7 +100,6 @@ EMAIL_HOST_PASSWORD = 'your-app-password'
 
 4. Drag all 4 images
 
-https://github.com/Jayasri123-ja/legal-case-management-system/blob/main/image.png
 
 
 

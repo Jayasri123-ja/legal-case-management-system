@@ -1,11 +1,6 @@
-## ✅ **SIMPLE README.md FOR GITHUB**
+Legal Case Management System
 
-Copy and paste this into your GitHub repository:
-
-```markdown
-# Legal Case Management System
-
-## 📌 About
+About
 A web application for lawyers to manage cases, clients, legal documents with AI summarization, and automatic email reminders for court hearings.
 
 ## 🚀 Features

@@ -100,12 +100,7 @@ EMAIL_HOST_PASSWORD = 'your-app-password'
 
 4. Drag all 4 images
 
-5. Edit README and replace the placeholder image names with your actual image names
+<img width="1366" height="702" alt="image" src="https://github.com/user-attachments/assets/1f37f87d-feee-4b30-99e7-692e7aba0d06" />
 
-6. Click **"Commit changes"**
 
----
 
-## ✅ **DONE!**
-
-Your GitHub repository now has a clean, professional README! 🚀

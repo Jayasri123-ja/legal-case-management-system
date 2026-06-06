@@ -26,6 +26,14 @@ A web application for lawyers to manage cases, clients, legal documents with AI 
 ### Analytics Dashboard
 ![Analytics](Analytics.png)
 
+### Admin Backend
+![Admin](adminBackend.png)
+
+### Dashboard Backend
+!dashboard](dashboardbackend.png)
+
+
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |

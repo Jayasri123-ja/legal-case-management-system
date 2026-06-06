@@ -100,7 +100,7 @@ EMAIL_HOST_PASSWORD = 'your-app-password'
 
 4. Drag all 4 images
 
-<img width="1366" height="702" alt="image" src="https://github.com/user-attachments/assets/1f37f87d-feee-4b30-99e7-692e7aba0d06" />
+https://github.com/Jayasri123-ja/legal-case-management-system/blob/main/image.png
 
 
 

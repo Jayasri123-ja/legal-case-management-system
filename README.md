@@ -1,4 +1,4 @@
-# Legal Case Management System
+# Legal Case Management System with Intelligent Case Report Analysis
 
 ## 📌 About
 A web application for lawyers to manage cases, clients, legal documents with AI summarization, and automatic email reminders for court hearings.
@@ -43,7 +43,5 @@ A web application for lawyers to manage cases, clients, legal documents with AI 
 | AI | Google Gemini API |
 | Database | SQLite |
 
-## 👨‍💻 Author
-**Jayasri**
 
 ## ⭐ Star this repo if you like it!
